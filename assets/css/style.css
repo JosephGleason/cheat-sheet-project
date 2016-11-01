@@ -74,7 +74,7 @@ aside > ol li > a {
     padding: 10px 0;
     border-radius: 5px;
     margin: 0 auto;
-    transition: .4s0;
+    transition: .4s;
 }
 
 aside > ol li > a:hover {
